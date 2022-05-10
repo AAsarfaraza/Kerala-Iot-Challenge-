@@ -7,12 +7,13 @@ It consists of total 12 experiments Which can be done using Aurdino UNO board (A
 # EXPERIMENT 1 - "Hello World" Led Blinking
 A basic Program similar to printing “Hello World“ in any programming language. The Aim is to blink an LED using Arduino Uno Board.
 # Components Required
-.Arduino Uno Board
-.USB Cable
-.LED (Any Color) x 1 Nos
-.220 OHM Resistor X 1 Nos
-.Breadboard
-.Jumper Wires (Male to Male ) X 2 Nos
+*Arduino Uno Board
+*USB Cable
+*LED (Any Color) x 1 Nos
+*220 OHM Resistor X 1 Nos
+*Breadboard
+*Jumper Wires (Male to Male ) X 2 Nos
 # Circuit Diagram
+
 
 
